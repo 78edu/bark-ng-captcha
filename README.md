@@ -1,4 +1,5 @@
-![ps2bios screenshot](/CAPTCHAImage2.png)
+![captcha screenshot](/CAPTCHAImage2.png)
+<br>
 #bark-ng-captcha
 CAPTCHA with distortion and dotted lines.
 # how to use?
